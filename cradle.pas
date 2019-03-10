@@ -91,7 +91,7 @@ end;
 
 { initialize }
 
-procedure init;
+procedure Init;
 begin
     GetChar;
 end;
@@ -99,5 +99,5 @@ end;
 { Main Program }
 
 begin
-    init;
+    Init;
 end.
